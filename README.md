@@ -5,5 +5,5 @@ The goal of this project is to produce minimum viable examples for common machin
 
 ## Models 
 
-- MLP image classifier: `mlp.ipynb`
-- Autoencoder: `autoencoder.ipynb`
+- **MLP image classifier**: `mlp.ipynb`
+- **Autoencoder**: `autoencoder.ipynb`
