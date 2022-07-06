@@ -7,3 +7,5 @@ The goal of this project is to produce minimum viable examples for common machin
 
 - **MLP image classifier**: `mlp.ipynb`
 - **Autoencoder**: `autoencoder.ipynb`
+
+Note: going to add a subfolder called `cool-jax-concepts` which will be atomic notebooks displaying a specific jax concept in each one. Might add docs that look like [this](https://gobyexample.com/): "Jax by example" or "Jax in $n$ steps"... 
