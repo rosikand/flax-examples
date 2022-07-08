@@ -9,3 +9,14 @@ The goal of this project is to produce minimum viable examples for common machin
 - **Autoencoder**: `autoencoder.ipynb`
 
 Note: going to add a subfolder called `cool-jax-concepts` which will be atomic notebooks displaying a specific jax concept in each one. Might add docs that look like [this](https://gobyexample.com/): "Jax by example" or "Jax in $n$ steps"... 
+
+Some ML topics I want to cover: 
+- Meta-learning on a vision classification task 
+- DDPM 
+- Neural differential equations 
+- Graph neural networks
+- Self-supervised learning for vision 
+
+Some jax concepts I want to cover: 
+- `pmap` and where to use it with flax (i.e., distributing data and model params/state + distributed update function) 
+- Train state in flax 
